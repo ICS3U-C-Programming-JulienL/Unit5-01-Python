@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
 # Created By: Julien Lamoureux
-# Date: September 22, 2023
-# This program calculates the area and circumference of a circle with a radius of 3.5 cm
+# Date: November 24, 2023
+# This program calculates temperature in celsius to fahrenheit
 
 
 def temp_convert():
